@@ -2,8 +2,36 @@
 
 ## Git 常用指令
 
-* git status
+* Status
 
-``` test
-test
+``` Command
+CLOUD-33:BasicGit cookie$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
 ```
+
+* Branch
+	* Local Branch List
+
+	``` Command
+	CLOUD-33:BasicGit cookie$ git branch
+	* master
+	```
+	
+	* All Branch List
+	
+	* Create Branch
+	
+	```` Command
+	CLOUD-33:BasicGit cookie$ git branch issue-somthing
+	CLOUD-33:BasicGit cookie$ git branch
+	  issue-somthing
+	* master
+	````
+	
+	* Change Branch
+	
+	```` Command
+	
+	````
