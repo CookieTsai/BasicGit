@@ -33,5 +33,9 @@ nothing to commit, working directory clean
 	* Change Branch
 	
 	```` Command
-	
+	CLOUD-33:BasicGit cookie$ git checkout issue-somthing
+	Switched to branch 'issue-somthing'
+	CLOUD-33:BasicGit cookie$ git branch
+	* issue-somthing
+	  master
 	````
